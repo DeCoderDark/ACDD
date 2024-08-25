@@ -1,0 +1,36 @@
+#EXTM3U
+#EXTINF:0,CNN
+http://198.16.100.90:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
+#EXTINF:0,AL JAZEERA
+https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
+#EXTINF:0,BBC NEWS 
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
+#EXTINF:0,BBC NEWS 2
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
+#EXTINF:0,SKY NEWS
+https://linear116-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_hd/Live/channel(skynewsinternational)/index_hd.m3u8
+#EXTINF:0,CBS NEWS
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:0,CNBC
+http://50.7.237.4:8080/CNBC/index.m3u8
+#EXTINF:0,NDTV ENGLISH
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+#EXTINF:0,FOX NEWS
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:0,MSNBC
+https://1420543146.rsc.cdn77.org:443/xJKRd_NZM2yKKiAYZmQ6cQ==,1646078776/LS-ATL-54548-10/tracks-v1a1/mono.m3u8 
+#EXTINF:0,ABC NEWS
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
+#EXTINF:0,DW TV https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+#EXTINF:0,EURONEWS
+https://rakuten-euronews-1-ie.samsung.wurl.com/manifest/00652820d6946952c6e3002b0e720fff.m3u8
+#EXTINF:0,NDTV HINDI
+https://ndtvindiaelemarchana.akamaized.net//hls//live//2003679//ndtvindia//ndtvindiamaster.m3u8
+#EXTINF:0,PBS AMERICA
+https://pbs-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:0,Zee Bangla
+http://103.99.249.139/zeebangla/index.m3u8
+#EXTINF:0,MTV Live HD
+http://142.132.218.83:2086/play/a00f/index.m3u8
+#EXTINF:0,EUROCUP
+https://dai.google.com/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8
