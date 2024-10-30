@@ -7,5 +7,5 @@ https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
 #EXTINF:0,MTV LIVE HD
 https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
-#EXTINF:0,BBC EARTH
+#EXTINF:0,SONY BBC EARTH
 http://livetvbox.live:8080/live/127718262420/127744325447/174.ts
