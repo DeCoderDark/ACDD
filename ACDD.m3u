@@ -21,3 +21,7 @@ http://livetvbox.live:8080/live/127718262420/127744325447/7344.ts
 http://livetvbox.live:8080/live/127718262420/127744325447/143205.ts
 #EXTINF:0,Sky News UK
 http://opplex.tv:8080/live/619855571/66800196/346370.ts
+#EXTINF:0,Sky News UK (2)
+https://d2gjhy8g9ziabr.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/998ee30e-d770-4de7-a01b-431a760a1a5b/4.m3u8
+#EXTINF:0,Sky News UK (3)
+https://d2gjhy8g9ziabr.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/34bdf583-266c-4050-8d17-156b17a0b8bb/4.m3u8
