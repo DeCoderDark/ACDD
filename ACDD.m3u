@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,CNN
-http://198.16.100.90:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
+https://vodzong.mjunoon.tv:8087/streamtest/cnn-86/live/86H/chunks.m3u8?nimblesessionid=396749667
 #EXTINF:0,AL JAZEERA
 https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 #EXTINF:0,BBC World NEWS
