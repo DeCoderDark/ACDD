@@ -29,3 +29,5 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83da
 https://d2gjhy8g9ziabr.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/34bdf583-266c-4050-8d17-156b17a0b8bb/4.m3u8
 #EXTINF:0, Discovery Bangla
 https://freedishbhai.vercel.app/Discovery_Bengali.m3u8
+#EXTINF:0, KSG
+https://vhoichoi.viewlift.com/Renditions/20221214/1671019093881_ksg_full_movie/hls/1671019093881_ksg_full_movie_1080.m3u8
