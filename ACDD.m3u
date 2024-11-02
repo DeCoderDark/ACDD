@@ -11,6 +11,8 @@ https://mediapackage-ptcn-source.fullscreen.nz/index.m3u8
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1730569785/ei/2REmZ5mfKMKI6dsPtubq4Qo/ip/92.205.5.93/id/gCNeDWCI0vo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51324828/txs/51324825%2C51324826%2C51324827%2C51324828/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAQHArHqgChmAXMU-sSsI93zjYBVxuuJZib9JXCNBm_zqupfiDmFTFQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51326932%2C51331020/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPFAwdREib6IeKOfBuBPvOmNFppCXpSG4okxBm8FE94vAiArIlrl9dU0_j0Y__jxDNN2p97X7Ybjqflpyy1Gi8eoZw%3D%3D/file/index.m3u8
 #EXTINF:0,BBC WORLD NEWS
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#EXTINF:0, BBC FOUR
+https://livetvde.net/bbcfour/index.m3u8
 #EXTINF:0,MTV LIVE HD
 https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:0,SONY BBC EARTH
@@ -39,3 +41,5 @@ https://drmlive.in/discoveryplus/discoverysci.m3u8
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:0, FIRSTPOST 
 https://jiotvmblive.cdn.jio.com/bpk-tv/Firstpost_MOB/Fallback/Firstpost_MOB-audio_98836_eng=98800-video=2293600.m3u8?__hdnea__=st=1730491159~exp=1730577559~acl=/*~hmac=56415136e9d40e5f7f51fb4aa4748df9c562bfbf57c6bd838876231078ae69a1
+#EXTINF:0, BLOOMBERG QUICKTAKE LIVE
+https://bloomberg-quicktake-1-se.samsung.wurl.tv/playlist.m3u8
