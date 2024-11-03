@@ -35,6 +35,8 @@ https://is.gd/CHzw32?SkyNews.m3u8
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 #EXTINF:0, DISCOVERY BANGLA
 https://freedishbhai.vercel.app/Discovery_Bengali.m3u8
+#EXTINF:0, DISCOVERY BANGLA (2)
+https://dplus.gammacdn.workers.dev/videos/95.m3u8
 #EXTINF:0, DISCOVERY SCIENCE English hindi
 https://drmlive.in/discoveryplus/discoverysci.m3u8
 #EXTINF:0, WION
