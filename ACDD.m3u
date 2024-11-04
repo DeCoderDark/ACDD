@@ -45,3 +45,5 @@ https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 https://jiotvmblive.cdn.jio.com/bpk-tv/Firstpost_MOB/Fallback/index.m3u8?__hdnea__=st=1730574136~exp=1730660536~acl=/*~hmac=16b204db838931755e74ae8d40dbb19021747f6889560e73e28393296a41b2f0
 #EXTINF:0, BLOOMBERG QUICKTAKE LIVE
 https://bloomberg-quicktake-1-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0, BLOOMBERG QUICKTAKE LIVE (YT)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1730746796/ei/TMUoZ-OqI_mv2roP6OSjuQ8/ip/103.219.44.38/id/DxmDPrfinXY.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51324827/txs/51324825%2C51324826%2C51324827%2C51324828/playlist_duration/30/manifest_duration/30/gcr/in/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/nagoi/1/keepalive/yes/fexp/51312688%2C51326932/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Cplaylist_duration%2Cmanifest_duration%2Cgcr%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKciWvnsgNtxHCTyFXfTglZ-EedR3SU77K1AmIvEVXyEAiAA3WeEzQtKSLJaLh3z6pvrHCFJMvvqbHPowQPIQINBPA%3D%3D/file/index.m3u8
