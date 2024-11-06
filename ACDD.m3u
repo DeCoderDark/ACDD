@@ -46,7 +46,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Firstpost_MOB/Fallback/index.m3u8?__hdnea
 #EXTINF:0, BLOOMBERG QUICKTAKE LIVE
 https://bloomberg-quicktake-1-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0, BLOOMBERG QUICKTAKE LIVE (YT)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1730746796/ei/TMUoZ-OqI_mv2roP6OSjuQ8/ip/103.219.44.38/id/DxmDPrfinXY.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51324827/txs/51324825%2C51324826%2C51324827%2C51324828/playlist_duration/30/manifest_duration/30/gcr/in/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/nagoi/1/keepalive/yes/fexp/51312688%2C51326932/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Cplaylist_duration%2Cmanifest_duration%2Cgcr%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKciWvnsgNtxHCTyFXfTglZ-EedR3SU77K1AmIvEVXyEAiAA3WeEzQtKSLJaLh3z6pvrHCFJMvvqbHPowQPIQINBPA%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1730950413/ei/reArZ5C7Kou5rtoPhcCjgQs/ip/139.5.230.132/id/DxmDPrfinXY.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/in/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/nagoi/1/keepalive/yes/fexp/51312688%2C51326932/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Cplaylist_duration%2Cmanifest_duration%2Cgcr%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJffdppoWh5jrbRHx0qQyRbH6RPqQxD8P5k-tVOeSbuBAiEAtcWFMDp3c3tcrtEjXTRKMKeq3i8i9ek3SEsjIJn8WVA%3D/file/index.m3u8
 #EXTINF:0, ANIMAL PLANET 
 https://dplus.gammacdn.workers.dev/videos/99.m3u8
 #EXTINF:0, EPIC ON
