@@ -16,7 +16,7 @@ https://livetvde.net/bbcfour/index.m3u8
 #EXTINF:0,MTV LIVE HD
 https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:0,SONY BBC EARTH
-http://livetvbox.live:8080/live/127718262420/127744325447/174.ts
+http://tv.cloudcdn.me/live.ts?channelId=40478&uid=13433&deviceMac=00:1A:79:00:97:A1
 #EXTINF:0,HISTORY 18
 http://livetvbox.live:8080/live/127718262420/127744325447/180.ts
 #EXTINF:0,NATIONAL GEOGRAPHIC 
@@ -24,7 +24,7 @@ http://livetvbox.live:8080/live/127718262420/127744325447/7343.ts
 #EXTINF:0,NATIONAL GEOGRAPHIC WILD
 http://livetvbox.live:8080/live/127718262420/127744325447/7344.ts
 #EXTINF:0,TRAVEL XP
-http://livetvbox.live:8080/live/127718262420/127744325447/143205.ts
+http://tv.cloudcdn.me/live.ts?channelId=70970&uid=13433&deviceMac=00:1A:79:00:97:A1
 #EXTINF:0,SKY NEWS UK
 http://opplex.tv:8080/live/619855571/66800196/346370.ts
 #EXTINF:0,SKY NEWS UK (2)
