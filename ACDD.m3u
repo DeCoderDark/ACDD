@@ -58,6 +58,6 @@ https://amartechbd.xyz/toffeebd/live.php?id=match-2&e=.m3u8
 #EXTINF:0, Cricket Bangladesh1
 https://www.circle-sports.com/api/cdn4/live.php?id=c58fd7a1e300&e=.m3u8
 #EXTINF:0, Cricket English
-https://c3s9.vfruitfairy.com/com5/tracks-v1a1/mono.m3u8
+http://143.244.60.99/AstroCricketHD/tracks-v1a1/mono.m3u8?token=14673610354065345b60c02ce50dda8f
 #EXTINF:0, Cricket Hindi
 https://jcevents.jiocinema.com/bpk-tv/JC_Sports18_1HD/JCHLS/hdntl=exp=1740988229~acl=%2f*~id=3b1859c9f1426cc57c8f72bcaf33ada4~data=hdntl~hmac=afb3ea9d8a32ab3df1f1210ff023c405d25879e9642d17bf5b1f695e61827686/JC_Sports18_1HD-audio_108038_eng=108000-video=3728000.m3u8
