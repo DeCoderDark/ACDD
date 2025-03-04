@@ -55,6 +55,8 @@ https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-r
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d65252710041e0ccbc.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=cvyx7tfwzr3zcoLaev1W
 #EXTINF:0, Cricket Bangladesh 
 https://amartechbd.xyz/toffeebd/live.php?id=match-2&e=.m3u8
+#EXTINF:0, Cricket Bangladesh1
+https://www.circle-sports.com/api/cdn4/live.php?id=c58fd7a1e300&e=.m3u8
 #EXTINF:0, Cricket English
 https://c3s9.vfruitfairy.com/com5/tracks-v1a1/mono.m3u8
 #EXTINF:0, Cricket Hindi
