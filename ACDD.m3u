@@ -53,7 +53,7 @@ https://linear-794.frequency.stream/mt/studio/794/hls/master/playlist.m3u8
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8
 #EXTINF:0, REUTERS TV(1)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d65252710041e0ccbc.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=cvyx7tfwzr3zcoLaev1W
-#EXTINF:0, Cricket Bangladesh1
-https://www.circle-sports.com/api/cdn4/live.php?id=c58fd7a1e300&e=.m3u8
+#EXTINF:0, Cricket Bangla 
+https://vkvsd46.okcdn.ru/hls/8053551532729.m3u8/sig/VREnNrsw0ww/expires/1742735481210/srcIp/176.227.240.53/urls/45.136.22.58/clientType/14/srcAg/CHROME_ANDROID/mid/9927422258105/8053551532729_high/index.m3u8
 #EXTINF:0, Cricket English
 http://apex02.keycdn.cc/AstroCricketHD/index.m3u8?token=096e3c5f4e058fbc21408d840c5ffb6f
