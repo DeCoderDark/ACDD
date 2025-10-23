@@ -57,3 +57,5 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d65252
 https://noise-friendly-marie-bedford.trycloudflare.com/JStar/IPL/hls/live/master.m3u8?cid=1540040315&lang=ben&qlt=FHD
 #EXTINF:0, Cricket English
 https://vkvsd77.okcdn.ru/hls/7896338336389.m3u8/sig/ErdnsBbCDOc/expires/1742729097984/srcIp/176.227.240.69/urls/45.136.22.64/clientType/14/srcAg/CHROME_ANDROID/mid/8877922593669/7896338336389_low/index.m3u8
+#EXTINF:0, BTTV Business Today TV
+https://bttvlive-amd.akamaized.net/hls/live/2096488/live/bttv/bttv2/chunklist.m3u8
