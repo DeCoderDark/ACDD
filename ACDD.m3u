@@ -31,3 +31,5 @@ https://vkvsd77.okcdn.ru/hls/7896338336389.m3u8/sig/ErdnsBbCDOc/expires/17427290
 https://bttvlive-amd.akamaized.net/hls/live/2096488/live/bttv/bttv2/chunklist.m3u8
 #EXTINF:0, DW NEWS
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:0, FRANCE 24
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
